@@ -1,27 +1,53 @@
-# Segurança de Endpoints
+# 🔐 Segurança de Endpoints
 
-## O que são endpoints?
-Endpoints são dispositivos conectados à rede, como:
-- computadores
-- servidores
-- celulares
-- tablets
+## 📌 O que são endpoints?
+Endpoints são dispositivos conectados à rede:
+- Computadores
+- Servidores
+- Smartphones
+- Tablets
 
-## Objetivo da segurança de endpoints
-Proteger esses dispositivos contra:
-- malware
-- acessos não autorizados
-- vulnerabilidades
+---
 
-## Conceitos importantes
-- Confidencialidade: proteger dados contra acesso indevido
-- Integridade: garantir que dados não sejam alterados
-- Disponibilidade: manter sistemas funcionando
+## 🎯 Objetivo da segurança de endpoints
+Proteger dispositivos contra:
+- Malware
+- Acessos não autorizados
+- Exploração de vulnerabilidades
 
-## O que aprendi
+---
+
+## ⚠️ Principais ameaças
+- Vírus
+- Ransomware
+- Phishing
+- Exploits
+
+---
+
+## 🧠 Conceitos importantes
+- **Confidencialidade** → proteger dados
+- **Integridade** → evitar alteração indevida
+- **Disponibilidade** → manter sistemas ativos
+
+---
+
+## 🛠️ Ferramentas e práticas
+- Antivírus
+- Firewall
+- Atualizações de sistema
+- Controle de acesso
+
+---
+
+## 📈 O que aprendi
 - Importância da proteção de dispositivos
 - Tipos básicos de ameaças
-- Como endpoints são alvo de ataques
+- Conceitos fundamentais de segurança
 
-## Status
-Curso em andamento...
+---
+
+## 📌 Observações
+Conteúdo baseado no curso da Cisco Networking Academy.
+
+---
